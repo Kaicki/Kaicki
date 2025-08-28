@@ -90,8 +90,8 @@
 
   <div id="particles-js"></div>
 
-  <h1>Eclipse Tools</h1>
-  <p>Ferramentas de Automação Educacional</p>
+  <h1>3ano A</h1>
+  <p>vai todo mundo tomar no ku</p>
 
   <div class="cards">
     <div class="card">
